@@ -407,7 +407,7 @@ svg[name="Activity"] {
 .headerBar-UHpsPw,
 .container-1-ERn5 {
   box-shadow: none;
-  border-bottom: 2px solid var(--main-color) !important;
+  border-bottom: 2px solid transparent !important;
 }
 
 .container-1-ERn5 {
