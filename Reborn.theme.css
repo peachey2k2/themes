@@ -13,7 +13,7 @@
 
 :root {
 --roundness: 5px;
---main-color: #01c6a7BF;
+--main-color: #01c6a7BF; /* a lot of things including some of the text - don't make it too transparent or it'll look like shit */
 --hover-color: #01c6a7EE;
 --home-color: #eeeeee;
 --shadow: #00000000;
@@ -24,7 +24,7 @@
 --customFont: 'Quicksand';
 --primary-color: #ff000077;
 --secondary-color: #3d3d3777; /* selected channel and settings sidebar */
---tertiary-color: #0000ff77;
+--tertiary-color: #00000000; /* various things in settings section and some hovered buttons */
 --quaternary-color: #00000055; /* embed backgrounds */
 }
 
