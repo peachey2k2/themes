@@ -10,7 +10,7 @@
 @import url("https://raw.githubusercontent.com/peachey2k2/themes/master/phoenix-bundle/reborn.css");
 @import url('https://fonts.googleapis.com/css2?family=Quicksand');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
-/*@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');*/
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
 --roundness: 5px;
 --main-color: #B77A00BF;
@@ -21,7 +21,7 @@
 --background-blur: 0px;
 --background-darkness: 0.75;
 --popup-background: url('https://s-media-cache-ak0.pinimg.com/originals/60/c4/bb/60c4bb55215c989b15b0fe144c73cf82.jpg');
-/*--rs-small-spacing: 2px;
+--rs-small-spacing: 2px;
 --rs-medium-spacing: 3px;
 --rs-large-spacing: 4px;
 --rs-small-width: 2px;
@@ -34,6 +34,6 @@
 --rs-offline-color: #636b75;
 --rs-streaming-color: #643da7;
 --rs-invisible-color: #747f8d;
---rs-phone-visible: block;*/
+--rs-phone-visible: block;
 --customFont: 'Quicksand';
 }
