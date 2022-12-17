@@ -22,6 +22,7 @@
 --background-darkness: 0.75;
 --popup-background: url('https://s-media-cache-ak0.pinimg.com/originals/60/c4/bb/60c4bb55215c989b15b0fe144c73cf82.jpg');
 --customFont: 'Quicksand';
+--quaternary-color: #003399BF;
 }
 
 [role="list"] > div {
