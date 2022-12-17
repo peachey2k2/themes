@@ -23,9 +23,9 @@
 --popup-background: url('https://s-media-cache-ak0.pinimg.com/originals/60/c4/bb/60c4bb55215c989b15b0fe144c73cf82.jpg');
 --customFont: 'Quicksand';
 --primary-color: #ff000077;
---secondary-color: #00ff0077;
+--secondary-color: #3d3d3777; /* selected channel and settings sidebar */
 --tertiary-color: #0000ff77;
---quaternary-color: #000000dd;
+--quaternary-color: #00000055; /* embed backgrounds */
 }
 
 [role="list"] > div {
