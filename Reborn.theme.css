@@ -22,10 +22,10 @@
 --background-darkness: 0.75;
 --popup-background: url('https://s-media-cache-ak0.pinimg.com/originals/60/c4/bb/60c4bb55215c989b15b0fe144c73cf82.jpg');
 --customFont: 'Quicksand';
---primary-color: #01c6a777;
---secondary-color: #01c6a777;
---tertiary-color: #01c6a777;
---quaternary-color: #003399BF;
+--primary-color: #ff000077;
+--secondary-color: #00ff0077;
+--tertiary-color: #0000ff77;
+--quaternary-color: #00ffffBF;
 }
 
 [role="list"] > div {
