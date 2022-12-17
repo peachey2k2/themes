@@ -468,7 +468,7 @@ svg[name="Activity"] {
 }
 
 .tutorialContainer-1pL9QS>.listItem-3SmSlK {
-  border-bottom: 2px solid var(--main-color);
+  border-bottom: 2px solid transpaernt;
   border-radius: 0px !important;
   width: 100%;
   transition: all 1s ease-in-out;
